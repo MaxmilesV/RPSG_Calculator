@@ -1,0 +1,3 @@
+Created more realistic formulas for calculation. At the moment they work prety bad.
+
+Created an executable aplication from the code.
